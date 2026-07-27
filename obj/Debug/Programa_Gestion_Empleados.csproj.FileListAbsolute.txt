@@ -1,0 +1,7 @@
+C:\Users\Owner\OneDrive\Escritorio\lab\Programa_Gestion_Empleados\bin\Debug\Programa_Gestion_Empleados.exe.config
+C:\Users\Owner\OneDrive\Escritorio\lab\Programa_Gestion_Empleados\bin\Debug\Programa_Gestion_Empleados.exe
+C:\Users\Owner\OneDrive\Escritorio\lab\Programa_Gestion_Empleados\bin\Debug\Programa_Gestion_Empleados.pdb
+C:\Users\Owner\OneDrive\Escritorio\lab\Programa_Gestion_Empleados\obj\Debug\Programa_Gestion_Empleados.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Escritorio\lab\Programa_Gestion_Empleados\obj\Debug\Programa_Gestion_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Escritorio\lab\Programa_Gestion_Empleados\obj\Debug\Programa_Gestion_Empleados.exe
+C:\Users\Owner\OneDrive\Escritorio\lab\Programa_Gestion_Empleados\obj\Debug\Programa_Gestion_Empleados.pdb
