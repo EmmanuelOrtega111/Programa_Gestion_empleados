@@ -42,11 +42,10 @@ El proyecto aplica los principios de la Programación Orientada a Objetos (POO) 
 ---
 
 ### 1. Descargar el proyecto
-Clona el repositorio o descarga el código fuente y sus respectivas clases
+Clonar el repositorio o descargar el archivo zip del proyecto de git hub: "[https://github.com/EmmanuelOrtega111/Programa_Gestion_empleados]"
 
-### 2.Ingresarlos en la carpeta del proyecto
-
-### 3.Ejecutar el archivo del proyecto
+### 2.Ejecutar el archivo del proyecto
+Una vez descomprimido o clonado el proyecto se ejecutara el archivo ".slnx" con Visual Studio Comunity
 
 ---
 
