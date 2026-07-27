@@ -7,6 +7,14 @@ using System.Threading.Tasks;
 
 namespace Programa_Gestion_Empleados
 {
+    /*
+     Intgrantes:
+        Escobar Ortega Emmanuel Alexander Carnet: EO260404
+        Cosme Palacios Pedro Aristides Carnet: CP240499
+        Guerrero Polaco, Jose Manuel Carnet: GP170487
+        Quintanilla Avalos Fernando Josue Carnet: QA221370
+     */
+
     internal class Program
     {
         static List<Empleado> empleados = new List<Empleado>();
